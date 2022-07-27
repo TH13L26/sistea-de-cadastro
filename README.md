@@ -4,6 +4,6 @@
 
 Para rodar esse projeto, por favor digite:
 
-...
+```
 npm install react
-...
+```
